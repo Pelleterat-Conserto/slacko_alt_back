@@ -1,5 +1,7 @@
 ## 👨🏻‍💻 Docker usage
 
+This is a lightweight back-end for a chat app. This works as a serving hatch, and there is no database.
+
 Build image with tag <your-tag>:
 `docker build . -t your-tag`
 
